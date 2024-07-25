@@ -8,7 +8,7 @@ const Main = () => {
      <div className="h-14">
        <Navbar />
      </div>
-     <div className="border h-[100rem]">
+     <div>
        <Outlet />
      </div>
    </div>
