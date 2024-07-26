@@ -1,0 +1,82 @@
+[
+  {
+    "category": "T-shirt",
+    "name": "Cool T-shirt",
+    "image": "https://example.com/images/cool-tshirt.jpg"
+  },
+  {
+    "category": "T-shirt",
+    "name": "Sporty T-shirt",
+    "image": "https://example.com/images/sporty-tshirt.jpg"
+  },
+  {
+    "category": "Panjabi",
+    "name": "Traditional Panjabi",
+    "image": "https://example.com/images/traditional-panjabi.jpg"
+  },
+  {
+    "category": "Panjabi",
+    "name": "Modern Panjabi",
+    "image": "https://example.com/images/modern-panjabi.jpg"
+  },
+  {
+    "category": "Shirt",
+    "name": "Formal Shirt",
+    "image": "https://example.com/images/formal-shirt.jpg"
+  },
+  {
+    "category": "Shirt",
+    "name": "Casual Shirt",
+    "image": "https://example.com/images/casual-shirt.jpg"
+  },
+  {
+    "category": "Pajama",
+    "name": "Comfy Pajama",
+    "image": "https://example.com/images/comfy-pajama.jpg"
+  },
+  {
+    "category": "Pajama",
+    "name": "Stylish Pajama",
+    "image": "https://example.com/images/stylish-pajama.jpg"
+  },
+  {
+    "category": "Electronic Device",
+    "name": "Smartphone",
+    "image": "https://example.com/images/smartphone.jpg"
+  },
+  {
+    "category": "Electronic Device",
+    "name": "Laptop",
+    "image": "https://example.com/images/laptop.jpg"
+  },
+  {
+    "category": "Electronic Device",
+    "name": "Tablet",
+    "image": "https://example.com/images/tablet.jpg"
+  },
+  {
+    "category": "Electronic Accessory",
+    "name": "Wireless Earbuds",
+    "image": "https://example.com/images/wireless-earbuds.jpg"
+  },
+  {
+    "category": "Electronic Accessory",
+    "name": "Smartwatch",
+    "image": "https://example.com/images/smartwatch.jpg"
+  },
+  {
+    "category": "Electronic Accessory",
+    "name": "Phone Charger",
+    "image": "https://example.com/images/phone-charger.jpg"
+  },
+  {
+    "category": "Electronic Accessory",
+    "name": "Bluetooth Speaker",
+    "image": "https://example.com/images/bluetooth-speaker.jpg"
+  },
+  {
+    "category": "Electronic Accessory",
+    "name": "Laptop Bag",
+    "image": "https://example.com/images/laptop-bag.jpg"
+  }
+]
