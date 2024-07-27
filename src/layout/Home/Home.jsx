@@ -86,7 +86,7 @@ const Home = () => {
    </div>
  );
   return (
-    <div className="grid grid-cols-1 md:grid-cols-3 gap-6  lg:grid-cols-4 px-24 font-nunito  font-semibold">
+    <div className="grid grid-cols-1 md:grid-cols-3 gap-6  lg:grid-cols-4 lg:px-24 px-5 font-nunito  font-semibold">
       <div className="border rounded-xl  bg-gray-100 px-2 py-1 h-[20em] drop-shadow-lg shadow-lg text-xs">
         <div className="space-y-3 ">
           <Dropdown overlay={menu}>
