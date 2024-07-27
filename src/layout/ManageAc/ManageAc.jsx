@@ -71,7 +71,7 @@ const ManageAc = () => {
            My Returns
          </NavLink>
          <NavLink
-           to="/my-cancellations"
+           to="/manage-account/my-cancellations"
            className={({ isActive }) =>
              isActive ? 'text-cyan-500' : 'text-sm text-slate-800/90'
            }
@@ -91,7 +91,7 @@ const ManageAc = () => {
        </div>
        <div className="px-4 flex flex-col gap-1 mt-2">
          <NavLink
-           to="/my-wishlist-store"
+           to="/manage-account/my-wishlist-store"
            className={({ isActive }) =>
              isActive ? 'text-cyan-500' : 'text-sm text-slate-800/90'
            }

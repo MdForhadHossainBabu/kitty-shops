@@ -1,6 +1,4 @@
 
-
-
 const Cart = () => {
  return (
   <div>

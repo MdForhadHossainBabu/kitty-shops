@@ -55,8 +55,8 @@ const Login = () => {
 
  return (
    <div className="font-nunito md:max-w-screen-sm mx-auto h-screen md:h-auto lg:h-auto md:my-[2%] py-12 bg-gradient-to-r from-rose-500 to-sky-500 ">
-     <h1 className="text-center font-extrabold text-slate- text-white text-4xl pb-12">
-       Login Now
+     <h1 className="text-center font-extrabold text-4xl pb-12 text-white ">
+    Login Now 
      </h1>
      <Typography>
        {loading ? (

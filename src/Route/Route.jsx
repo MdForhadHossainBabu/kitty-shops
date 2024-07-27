@@ -14,6 +14,8 @@ import MyProfile from "../layout/ManageAc/MyProfile/MyProfile";
 import AddressBook from "../layout/ManageAc/AddressBook/AddressBook";
 import MyPaymentOptions from "../layout/ManageAc/MyPaymentOptions/MyPaymentOptions";
 import MyReturns from "../page/MyOrder/MyReturns/MyReturns";
+import MyCancellations from "../page/MyOrder/MyCancellations/MyCancellations";
+import MyWishlist from "../page/MyReviews/MyWishlist/MyWishlist";
 
 export const router = createBrowserRouter([
   {
@@ -67,15 +69,23 @@ export const router = createBrowserRouter([
           },
           {
             path: '/manage-account/address-book',
-            element: <AddressBook/>
+            element: <AddressBook />,
           },
           {
             path: '/manage-account/my-payment-options',
-            element:<MyPaymentOptions/>
+            element: <MyPaymentOptions />,
           },
           {
             path: '/manage-account/my-returns',
-            element: <MyReturns/>
+            element: <MyReturns />,
+          },
+          {
+            path: '/manage-account/my-cancellations',
+            element:<MyCancellations/>
+          },
+          {
+            path: '/manage-account/my-wishlist-store',
+            element:<MyWishlist/>
           }
         ],
       },

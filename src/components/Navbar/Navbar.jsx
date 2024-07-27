@@ -33,6 +33,7 @@ const Navbar = () => {
       My Orders
     </Link>,
     <Link
+      to="/manage-account/my-wishlist-store"
       key="1"
       className="py-1 w-full px-12 hover:text-red-600 hover:underline duration-300 flex items-center gap-2"
     >
@@ -102,15 +103,6 @@ const Navbar = () => {
                
              </Dropdown>
            ) : (
-             //  <Tooltip title='logout' placement="left-start">
-
-             //  <button
-             //    className=" px-4 py-1 rounded-md font-bold bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 "
-             //    onClick={() => logOut()}
-             //  >
-             //    Log out
-             //  </button>
-             //  </Tooltip>
              <div className="flex items-center">
                <NavLink
                  to="/login"
@@ -147,12 +139,13 @@ const Navbar = () => {
            <NavLink
              className={({ isActive }) =>
                isActive
-                 ? 'duration-300 rounded-lg md:px-5 py-1 bg-slate-500/60'
-                 : 'duration-300 rounded-lg md:px-5 py-1 hover:bg-slate-500/60'
+                 ? 'duration-300 rounded-lg md:px-5 py-1 bg-slate-500/60 relative'
+                 : 'duration-300 rounded-lg md:px-5 py-1 hover:bg-slate-500/60 relative'
              }
              to="/cart"
            >
              <HiOutlineShoppingCart className="text-2xl" />
+             <span className="absolute -top-[5px] text-black right-[10px] text-[12px] border rounded-full p-[2px] h-5 w-5 items-center  bg-white font-bold">02</span>
            </NavLink>
          </div>
        </div>
