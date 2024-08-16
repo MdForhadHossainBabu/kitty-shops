@@ -13,8 +13,13 @@
     "@emotion/react": "^11.13.0",
     "@emotion/styled": "^11.13.0",
     "@mui/material": "^5.16.5",
+    "@radix-ui/react-slot": "^1.1.0",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "embla-carousel-react": "^8.1.8",
     "firebase": "^10.12.4",
     "localforage": "^1.10.0",
+    "lucide-react": "^0.427.0",
     "match-sorter": "^6.3.4",
     "rc-dropdown": "^4.2.0",
     "react": "^18.3.1",
@@ -26,7 +31,9 @@
     "react-loader-spinner": "^6.1.6",
     "react-router-dom": "^6.25.1",
     "react-tooltip": "^5.27.1",
-    "sort-by": "^1.2.0"
+    "sort-by": "^1.2.0",
+    "tailwind-merge": "^2.5.2",
+    "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",

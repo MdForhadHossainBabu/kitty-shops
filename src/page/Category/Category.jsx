@@ -1,7 +1,6 @@
 import { useEffect } from "react";
 import { useState } from "react";
 import 'react-tooltip/dist/react-tooltip.css';
-import { Tooltip } from 'react-tooltip';
 import { Link } from "react-router-dom";
 
 
