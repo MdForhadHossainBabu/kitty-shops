@@ -1,7 +1,7 @@
 [
   {
     "productName": "Nike Air Max 270",
-    "productImage": "https://example.com/nike-airmax-270.jpg",
+    "productImage": "https://www.google.com/imgres?q=nike%20air%20max%20270&imgurl=https%3A%2F%2Fstatic.nike.com%2Fa%2Fimages%2Ft_PDP_1280_v1%2Ff_auto%2Cq_auto%3Aeco%2F8f9e4d21-0c1d-4cab-b269-c147cc894271%2Fair-max-270-younger-shoe-jnTpPRrx.png&imgrefurl=https%3A%2F%2Fwww.nike.com%2Fza%2Ft%2Fair-max-270-younger-shoe-jnTpPRrx%2FAO2372-117&docid=bOHLlodu8OTR_M&tbnid=hkk4CGljH-XJxM&vet=12ahUKEwjH2tT_hPyHAxVBXGwGHXFKEQIQM3oECBYQAA..i&w=1280&h=1600&hcb=2&itg=1&ved=2ahUKEwjH2tT_hPyHAxVBXGwGHXFKEQIQM3oECBYQAA",
     "description": "A lightweight, durable, and comfortable shoe for running.",
     "price": 150.0,
     "category": "Shoes",
@@ -10,7 +10,7 @@
   },
   {
     "productName": "Sony WH-1000XM4",
-    "productImage": "https://example.com/sony-wh1000xm4.jpg",
+    "productImage": "https://www.google.com/imgres?q=Sony%20WH-1000XM4&imgurl=https%3A%2F%2Fwww.sony-asia.com%2Fimage%2F5d02da5df552836db894cead8a68f5f3%3Ffmt%3Dpjpeg%26wid%3D330%26bgcolor%3DFFFFFF%26bgc%3DFFFFFF&imgrefurl=https%3A%2F%2Fwww.sony-asia.com%2Felectronics%2Fheadband-headphones%2Fwh-1000xm4&docid=pAJ6GkHFxUZbmM&tbnid=eDwBvLeumbxWkM&vet=12ahUKEwj9o6WYhfyHAxWrS2cHHVCmGl8QM3oECBcQAA..i&w=330&h=330&hcb=2&ved=2ahUKEwj9o6WYhfyHAxWrS2cHHVCmGl8QM3oECBcQAA",
     "description": "Industry-leading noise-canceling over-ear headphones.",
     "price": 349.99,
     "category": "Audio",
@@ -19,7 +19,7 @@
   },
   {
     "productName": "Apple iPhone 14 Pro",
-    "productImage": "https://example.com/iphone-14-pro.jpg",
+    "productImage": "https://www.google.com/imgres?q=Apple%20iPhone%2014%20Pro&imgurl=https%3A%2F%2Fwww.gizmochina.com%2Fwp-content%2Fuploads%2F2022%2F04%2FApple-iPhone-14-Pro-500x500.png&imgrefurl=https%3A%2F%2Fwww.gizmochina.com%2Fproduct%2Fapple-iphone-14-pro%2F&docid=CglAx9pNT0reyM&tbnid=FkGr9NpSe8cdIM&vet=12ahUKEwiJ24yrhfyHAxWWWGwGHUkOOTAQM3oECBQQAA..i&w=500&h=500&hcb=2&ved=2ahUKEwiJ24yrhfyHAxWWWGwGHUkOOTAQM3oECBQQAA",
     "description": "The latest iPhone with advanced features and high performance.",
     "price": 1099.0,
     "category": "Phones",
@@ -27,8 +27,8 @@
     "productCreationDateTime": "2024-08-17T08:45:10Z"
   },
   {
-    "productName": "Samsung QLED TV 55\"",
-    "productImage": "https://example.com/samsung-qled-tv.jpg",
+    "productName": "Samsung QLED TV 55",
+    "productImage": "https://www.google.com/imgres?q=Samsung%20QLED%20TV%2055&imgurl=https%3A%2F%2Fstorage.googleapis.com%2Fpickaboo-prod%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2F90e3b9f4120fc209bf60003e3b0e1323%2F5%2F5%2F55q60a-2.jpg&imgrefurl=https%3A%2F%2Fwww.pickaboo.com%2Fproduct-detail%2Fsamsung-55-qled-4k-smart-tv-55q60a%2F&docid=8T2qKYtOM5bizM&tbnid=Iudqv1M_u5mh_M&vet=12ahUKEwiA15C2hfyHAxXgSmwGHbKgG-AQM3oECG8QAA..i&w=800&h=800&hcb=2&ved=2ahUKEwiA15C2hfyHAxXgSmwGHbKgG-AQM3oECG8QAA",
     "description": "A stunning 55-inch QLED TV with vibrant colors and deep contrasts.",
     "price": 899.99,
     "category": "Electronics",
@@ -37,7 +37,7 @@
   },
   {
     "productName": "Dell XPS 13 Laptop",
-    "productImage": "https://example.com/dell-xps13.jpg",
+    "productImage": "https://www.google.com/imgres?q=Dell%20XPS%2013%20Laptop&imgurl=https%3A%2F%2Fryans.com%2Fstorage%2Fproducts%2Fmain%2Fdell-xps-13-9310-intel-core-i7-1185g7-134-inch-11641111496.webp&imgrefurl=https%3A%2F%2Fwww.ryans.com%2Fdell-xps-13-9310-intel-core-i7-1185g7-13-4-inch-uhd-touch-display-silver-laptop&docid=7aHRkjrqtFGziM&tbnid=ahxRM9N8-YoQ2M&vet=12ahUKEwirnvPEhfyHAxUbTGwGHbs4NR4QM3oECFIQAA..i&w=1200&h=1200&hcb=2&ved=2ahUKEwirnvPEhfyHAxUbTGwGHbs4NR4QM3oECFIQAA",
     "description": "A sleek, powerful laptop with a 13.3-inch display and long battery life.",
     "price": 1199.99,
     "category": "Laptops",
@@ -46,7 +46,7 @@
   },
   {
     "productName": "Canon EOS R6",
-    "productImage": "https://example.com/canon-eos-r6.jpg",
+    "productImage": "https://www.google.com/imgres?q=Canon%20EOS%20R6&imgurl=https%3A%2F%2Fwww.startech.com.bd%2Fimage%2Fcache%2Fcatalog%2Fcamera%2Fmirriorless%2Fcanon%2Feos-r6%2Feos-r6-body-01-500x500.webp&imgrefurl=https%3A%2F%2Fwww.startech.com.bd%2Fcanon-eos-r6-mirrorless-digital-camera&docid=R8uTOV_XHrGUlM&tbnid=TkGuufZMzyfYkM&vet=12ahUKEwjIpcPZhfyHAxX1fGwGHUwRJQwQM3oECBsQAA..i&w=500&h=500&hcb=2&ved=2ahUKEwjIpcPZhfyHAxX1fGwGHUwRJQwQM3oECBsQAA",
     "description": "A high-performance mirrorless camera for professionals and enthusiasts.",
     "price": 2499.0,
     "category": "Cameras",
@@ -55,7 +55,7 @@
   },
   {
     "productName": "Under Armour Men's Tech 2.0 T-Shirt",
-    "productImage": "https://example.com/ua-tech-shirt.jpg",
+    "productImage": "https://www.google.com/imgres?q=Under%20Armour%20Men%27s%20Tech%202.0%20T-Shirt&imgurl=https%3A%2F%2Fwww.standout.co.uk%2Fimages%2Fproduct%2F47869a.jpg&imgrefurl=https%3A%2F%2Fwww.standout.co.uk%2Funder-armour-tech-2-0-t-shirt-academy-steel-47869&docid=zJ7Bvs2SEWzQ3M&tbnid=3MuOqAWOrmL4jM&vet=12ahUKEwj88oLjhfyHAxXqRWcHHeFiFxEQM3oECB4QAA..i&w=1500&h=2000&hcb=2&ved=2ahUKEwj88oLjhfyHAxXqRWcHHeFiFxEQM3oECB4QAA",
     "description": "A comfortable, quick-drying T-shirt for workouts and casual wear.",
     "price": 25.0,
     "category": "Clothing",
@@ -64,7 +64,7 @@
   },
   {
     "productName": "Gucci GG Marmont Bag",
-    "productImage": "https://example.com/gucci-marmont-bag.jpg",
+    "productImage": "https://www.google.com/imgres?q=Gucci%20GG%20Marmont%20Bag&imgurl=https%3A%2F%2Fmedia.gucci.com%2Fstyle%2FDarkGray_Center_0_0_490x490%2F1647969305%2F447632_DTDHV_1000_002_067_0033_Light-GG-Marmont-small-shoulder-bag.jpg&imgrefurl=https%3A%2F%2Fwww.gucci.com%2Ftr%2Fen_gb%2Fpr%2Fwomen%2Fhandbags%2Fcrossbody-bags-for-women%2Fgg-marmont-small-shoulder-bag-p-447632DTDHV1000&docid=hm4yfiyHLwG2lM&tbnid=f9isaxpVFuXeAM&vet=12ahUKEwjs9tXyhfyHAxWQT2cHHR8bAjEQM3oECEoQAA..i&w=490&h=490&hcb=2&ved=2ahUKEwjs9tXyhfyHAxWQT2cHHR8bAjEQM3oECEoQAA",
     "description": "A luxury crossbody bag crafted from premium leather.",
     "price": 2299.99,
     "category": "Accessories",
@@ -73,7 +73,7 @@
   },
   {
     "productName": "Omega Seamaster Diver 300M",
-    "productImage": "https://example.com/omega-seamaster.jpg",
+    "productImage": "https://www.google.com/imgres?q=Omega%20Seamaster%20Diver%20300M&imgurl=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0667%2F9340%2F6783%2Ffiles%2FOmega-Seamaster-Diver-300m-Watch-e1539683801654.png&imgrefurl=https%3A%2F%2Fwww.berrysjewellers.co.uk%2Fblogs%2Feditorial%2Fwotw-omega-seamaster-diver-300m&docid=hPaZfL3pXZj8-M&tbnid=UZTSEK8cr5CCCM&vet=12ahUKEwijlN38hfyHAxUCUmcHHdBEJhsQM3oECBcQAA..i&w=963&h=1174&hcb=2&ved=2ahUKEwijlN38hfyHAxUCUmcHHdBEJhsQM3oECBcQAA",
     "description": "A sophisticated and durable dive watch with a sleek design.",
     "price": 5200.0,
     "category": "Watches",
@@ -82,7 +82,7 @@
   },
   {
     "productName": "Ray-Ban Aviator Sunglasses",
-    "productImage": "https://example.com/rayban-aviator.jpg",
+    "productImage": "https://www.google.com/imgres?q=Ray-Ban%20Aviator%20Sunglasses&imgurl=https%3A%2F%2Fwww.fastfashionbd.com%2Fcdn%2Fshop%2Ffiles%2F1_ededb3dd-ff21-4467-a169-ee7f54f85397.jpg%3Fv%3D1694860853%26width%3D1445&imgrefurl=https%3A%2F%2Fwww.fastfashionbd.com%2Fproducts%2Frayban-aviator-sunglass-rb-74-black-pailot-shape-sunglass&docid=fNBYu685XEbWFM&tbnid=IMPudsm2A64FrM&vet=12ahUKEwjv-JSFhvyHAxUhbWwGHZY8ESwQM3oECB0QAA..i&w=1000&h=1000&hcb=2&ved=2ahUKEwjv-JSFhvyHAxUhbWwGHZY8ESwQM3oECB0QAA",
     "description": "Classic aviator sunglasses with polarized lenses.",
     "price": 160.0,
     "category": "Accessories",
@@ -91,7 +91,7 @@
   },
   {
     "productName": "Adidas Ultraboost 21",
-    "productImage": "https://example.com/adidas-ultraboost-21.jpg",
+    "productImage": "https://www.google.com/imgres?q=Adidas%20Ultraboost%2021&imgurl=https%3A%2F%2Fsneakerpimpbd.co%2Fcontent%2Fimages%2Fthumbs%2F0002351_ultra-boost-21_600.jpeg&imgrefurl=https%3A%2F%2Fsneakerpimpbd.co%2Fultra-boost-21-4&docid=oVEeEF5sBtTm-M&tbnid=8gBFKjSpuAU6hM&vet=12ahUKEwjq77mNhvyHAxUdUGcHHX3kNcsQM3oECBgQAA..i&w=600&h=600&hcb=2&ved=2ahUKEwjq77mNhvyHAxUdUGcHHX3kNcsQM3oECBgQAA",
     "description": "High-performance running shoes with responsive cushioning.",
     "price": 180.0,
     "category": "Shoes",
@@ -100,7 +100,7 @@
   },
   {
     "productName": "Bose QuietComfort 35 II",
-    "productImage": "https://example.com/bose-qc35-ii.jpg",
+    "productImage": "https://www.google.com/imgres?q=Bose%20QuietComfort%2035%20II&imgurl=https%3A%2F%2Fadminapi.applegadgetsbd.com%2Fstorage%2Fmedia%2Flarge%2F2639-9290.jpg&imgrefurl=https%3A%2F%2Fwww.applegadgetsbd.com%2Fproduct%2Fbose-quietcomfort-35-wireless-headphones-ii&docid=ST8Z_YOW5BU2QM&tbnid=9aurXU774BrxFM&vet=12ahUKEwiWmauYhvyHAxULU2wGHSTFBxEQM3oECBoQAA..i&w=580&h=580&hcb=2&ved=2ahUKEwiWmauYhvyHAxULU2wGHSTFBxEQM3oECBoQAA",
     "description": "Wireless noise-canceling headphones for immersive sound.",
     "price": 299.99,
     "category": "Audio",
@@ -109,7 +109,7 @@
   },
   {
     "productName": "Google Pixel 7",
-    "productImage": "https://example.com/google-pixel-7.jpg",
+    "productImage": "https://www.google.com/imgres?q=Google%20Pixel%207&imgurl=https%3A%2F%2Fadminapi.applegadgetsbd.com%2Fstorage%2Fmedia%2Flarge%2FPixel-7-Obsidian-1130.jpg&imgrefurl=https%3A%2F%2Fwww.applegadgetsbd.com%2Fproduct%2Fpixel-7&docid=mu6-knwdEp9L_M&tbnid=U7CzRAzf9O8ZxM&vet=12ahUKEwiOtv-ghvyHAxXVT2cHHT0CC0sQM3oECBsQAA..i&w=800&h=800&hcb=2&ved=2ahUKEwiOtv-ghvyHAxXVT2cHHT0CC0sQM3oECBsQAA",
     "description": "A smart and powerful smartphone with an exceptional camera.",
     "price": 699.0,
     "category": "Phones",
@@ -117,8 +117,8 @@
     "productCreationDateTime": "2024-08-17T08:30:50Z"
   },
   {
-    "productName": "LG OLED TV 65\"",
-    "productImage": "https://example.com/lg-oled-tv.jpg",
+    "productName": "LG OLED TV 65",
+    "productImage": "https://www.google.com/imgres?q=LG%20OLED%20TV%2065&imgurl=https%3A%2F%2Fwww.lg.com%2Fcontent%2Fdam%2Fchannel%2Fwcms%2Fau%2Fimages%2Ftvs%2Foled55cspsa_aau_ehap_au_c%2Fgallery1%2FD-9.jpg&imgrefurl=https%3A%2F%2Fwww.lg.com%2Fau%2Ftv-soundbars%2Foled-evo-tv%2Foled65c2psc%2F&docid=dr1Svl3x6ZeRZM&tbnid=RVrFJN1tPhViBM&vet=12ahUKEwiT7PKphvyHAxVeUGcHHZaLJ8QQM3oECB0QAA..i&w=1100&h=730&hcb=2&ved=2ahUKEwiT7PKphvyHAxVeUGcHHZaLJ8QQM3oECB0QAA",
     "description": "A premium 65-inch OLED TV with perfect blacks and stunning colors.",
     "price": 1999.99,
     "category": "Electronics",
@@ -127,7 +127,7 @@
   },
   {
     "productName": "Microsoft Surface Laptop 4",
-    "productImage": "https://example.com/surface-laptop4.jpg",
+    "productImage": "https://www.google.com/imgres?q=Microsoft%20Surface%20Laptop%204&imgurl=https%3A%2F%2Fwww.startech.com.bd%2Fimage%2Fcache%2Fcatalog%2Flaptop%2Fmicrosoft%2Fsurface-laptop-4%2Fsurface-laptop-4-platinum-01-500x500.webp&imgrefurl=https%3A%2F%2Fwww.startech.com.bd%2Fmicrosoft-surface-laptop-4-core-i5-11th-gen-laptop&docid=6F74lZWJBNCAkM&tbnid=PZCbWJO_95rD7M&vet=12ahUKEwibhOuxhvyHAxXzSGwGHYBFJ94QM3oECBsQAA..i&w=500&h=500&hcb=2&ved=2ahUKEwibhOuxhvyHAxXzSGwGHYBFJ94QM3oECBsQAA",
     "description": "A sleek, powerful laptop with a 13.5-inch touchscreen display.",
     "price": 1299.99,
     "category": "Laptops",
@@ -136,7 +136,7 @@
   },
   {
     "productName": "Fujifilm X-T4",
-    "productImage": "https://example.com/fujifilm-xt4.jpg",
+    "productImage": "https://www.google.com/imgres?q=Fujifilm%20X-T4&imgurl=https%3A%2F%2F4.img-dpreview.com%2Ffiles%2Fp%2FE~TS590x0~articles%2F3092032226%2Fproduct%2FFujifilmX-T4-lead-02.jpeg&imgrefurl=https%3A%2F%2Fwww.dpreview.com%2Freviews%2Ffujifilm-x-t4-review&docid=sunBBPbBt0EzbM&tbnid=gBUCl1TNgIlXxM&vet=12ahUKEwiX_cO4hvyHAxXES2cHHWDMJbgQM3oECHAQAA..i&w=590&h=393&hcb=2&ved=2ahUKEwiX_cO4hvyHAxXES2cHHWDMJbgQM3oECHAQAA",
     "description": "A versatile mirrorless camera with advanced features for creators.",
     "price": 1699.0,
     "category": "Cameras",
@@ -145,7 +145,7 @@
   },
   {
     "productName": "Levi's 501 Original Jeans",
-    "productImage": "https://example.com/levis-501.jpg",
+    "productImage": "https://www.google.com/imgres?q=Levi%27s%20501%20Original%20Jeans&imgurl=https%3A%2F%2Fi5.walmartimages.com%2Fseo%2FLevi-s-Men-s-501-Original-Prewashed-Regular-Straight-Leg-Jeans-Stonewash-34W-x-30L-US_d05f1c56-31a1-4b2f-b410-50c24940fba1_1.1f08805bd23d4f8fa4303c0c09770ecb.jpeg&imgrefurl=https%3A%2F%2Fwww.ubuy.com.bd%2Fen%2Fproduct%2F4900SBW7C-levis-mens-501-original-fit-jeans&docid=G4cWjcmgD7nKEM&tbnid=-Zw1m23OfjXe_M&vet=12ahUKEwibgrLGhvyHAxXYSmwGHRNPBLYQM3oECBcQAA..i&w=2000&h=2667&hcb=2&ved=2ahUKEwibgrLGhvyHAxXYSmwGHRNPBLYQM3oECBcQAA",
     "description": "Classic straight-leg jeans with a timeless style.",
     "price": 89.99,
     "category": "Clothing",
@@ -154,7 +154,7 @@
   },
   {
     "productName": "Prada Saffiano Leather Wallet",
-    "productImage": "https://example.com/prada-wallet.jpg",
+    "productImage": "https://www.google.com/imgres?q=Prada%20Saffiano%20Leather%20Wallet&imgurl=https%3A%2F%2Fwww.onudesignerwear.com%2Fimages%2Fprada-saffiano-leather-wallet-black-p14823-20289_image.jpg&imgrefurl=https%3A%2F%2Fwww.onudesignerwear.com%2Fmen-c1%2Faccessories-c70%2Fwallets-c39%2Fprada-saffiano-leather-wallet-black-p14823&docid=yRLBKQe9u1m13M&tbnid=u5bkKjsAKCRNmM&vet=12ahUKEwjVqaHPhvyHAxWDUGcHHQT6B8wQM3oECBgQAA..i&w=1000&h=1000&hcb=2&ved=2ahUKEwjVqaHPhvyHAxWDUGcHHQT6B8wQM3oECBgQAA",
     "description": "A luxury wallet crafted from premium Saffiano leather.",
     "price": 450.0,
     "category": "Accessories",
@@ -163,7 +163,7 @@
   },
   {
     "productName": "Tag Heuer Carrera Watch",
-    "productImage": "https://example.com/tag-heuer-carrera.jpg",
+    "productImage": "https://www.google.com/imgres?q=Tag%20Heuer%20Carrera%20Watch&imgurl=https%3A%2F%2Fwww.tagheuer.com%2Fon%2Fdemandware.static%2F-%2FLibrary-Sites-TagHeuer-Shared%2Fdefault%2Fdwc4e18db9%2Fimages%2FEvents%2FWatches-and-wonders-2023%2Fcarrera-glassbox-blue-tag-heuer.png&imgrefurl=https%3A%2F%2Fwww.tagheuer.com%2Fus%2Fen%2Fcollection-carrera%2Fcollection-carrera.html&docid=W5QFeO1YAtuwbM&tbnid=azeZu1gdP9WURM&vet=12ahUKEwiss_3ZhvyHAxWLTWcHHU2DOpwQM3oECBkQAA..i&w=960&h=1080&hcb=2&ved=2ahUKEwiss_3ZhvyHAxWLTWcHHU2DOpwQM3oECBkQAA",
     "description": "A luxury chronograph watch with a sporty and elegant design.",
     "price": 3999.99,
     "category": "Watches",
@@ -172,7 +172,7 @@
   },
   {
     "productName": "Oakley Holbrook Sunglasses",
-    "productImage": "https://example.com/oakley-holbrook.jpg",
+    "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfXZr9h6X0UDQwGAlZhBwHNJrrJpJKLFVAEw&s",
     "description": "Stylish and durable sunglasses with polarized lenses.",
     "price": 130.0,
     "category": "Accessories",
@@ -181,7 +181,7 @@
   },
   {
     "productName": "Puma RS-X3",
-    "productImage": "https://example.com/puma-rs-x3.jpg",
+    "productImage": "https://www.google.com/imgres?q=Puma%20RS-X3&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D3350437284971467&imgrefurl=https%3A%2F%2Fwww.facebook.com%2FRepokershops%2Fphotos%2Fa.486882687993622%2F3350437284971467%2F%3Ftype%3D3&docid=l0JvVmtE98xlnM&tbnid=xfHUx-Yiv89J2M&vet=12ahUKEwiT1vz2hvyHAxWnTGwGHVfoF3wQM3oECG8QAA..i&w=941&h=941&hcb=2&ved=2ahUKEwiT1vz2hvyHAxWnTGwGHVfoF3wQM3oECG8QAA",
     "description": "Futuristic sneakers with bold design and comfort.",
     "price": 120.0,
     "category": "Shoes",
@@ -190,7 +190,7 @@
   },
   {
     "productName": "Beats Studio3 Wireless",
-    "productImage": "https://example.com/beats-studio3.jpg",
+    "productImage": "https://www.google.com/imgres?q=Beats%20Studio3%20Wireless&imgurl=https%3A%2F%2Fwww.gadstyle.com%2Fwp-content%2Fuploads%2F2023%2F02%2Fbeats-studio3-wireless-noise-cancelling-over-ear-headphones-1.webp&imgrefurl=https%3A%2F%2Fwww.gadstyle.com%2Fitem%2F115545%2Fbeats-studio3-wireless-noise-cancelling-over-ear-headphones%2F&docid=Qp-kS5gdMwhMwM&tbnid=029x3ssZAO1oRM&vet=12ahUKEwich5OJh_yHAxUuV2wGHY1-NiUQM3oECBwQAA..i&w=1000&h=979&hcb=2&itg=1&ved=2ahUKEwich5OJh_yHAxUuV2wGHY1-NiUQM3oECBwQAA",
     "description": "Premium noise-canceling headphones with high-quality sound.",
     "price": 349.99,
     "category": "Audio",
@@ -199,7 +199,7 @@
   },
   {
     "productName": "OnePlus 9 Pro",
-    "productImage": "https://example.com/oneplus-9-pro.jpg",
+    "productImage": "https://www.google.com/imgres?q=OnePlus%209%20Pro&imgurl=https%3A%2F%2Foasis.opstatics.com%2Fcontent%2Fdam%2Foasis%2Fpage%2F2021%2F9-series%2Fspec-image%2F9-pro%2FPine%2520green-gallery..png&imgrefurl=https%3A%2F%2Fwww.oneplus.com%2Fua%2F9-pro%2Fspecs&docid=psBxAVaRgFYABM&tbnid=YcSS4POOpwKmqM&vet=12ahUKEwjpw4-Sh_yHAxWcSmwGHT5JEzMQM3oECBkQAA..i&w=1040&h=1040&hcb=2&ved=2ahUKEwjpw4-Sh_yHAxWcSmwGHT5JEzMQM3oECBkQAA",
     "description": "A powerful smartphone with fast performance and a stunning display.",
     "price": 969.0,
     "category": "Phones",
@@ -207,8 +207,8 @@
     "productCreationDateTime": "2024-08-17T09:00:20Z"
   },
   {
-    "productName": "Vizio 4K UHD TV 50\"",
-    "productImage": "https://example.com/vizio-4k-tv.jpg",
+    "productName": "Vizio 4K UHD TV 50",
+    "productImage": "https://www.google.com/imgres?q=Vizio%204K%20UHD%20TV%2050&imgurl=https%3A%2F%2Fwww.vizio.com%2Fcontent%2Fdam%2Fvizio%2Fus%2Fen%2Fimages%2Fproduct%2F2021%2Ftv%2Fv-series%2Fv505-j09%2Fgallery%2F2022_V5-Series_V505-J09_Front_OS.jpg%2F_jcr_content%2Frenditions%2Fcq5dam.web.640.480.png&imgrefurl=https%3A%2F%2Fwww.vizio.com%2Fen%2Ftv%2Fv-series%2FV505-J09&docid=bDt0J8UqOSLlFM&tbnid=-7waLNY4g7u1EM&vet=12ahUKEwi52Lmah_yHAxVYR2wGHTQgJTcQM3oECBwQAA..i&w=640&h=464&hcb=2&ved=2ahUKEwi52Lmah_yHAxVYR2wGHTQgJTcQM3oECBwQAA",
     "description": "Affordable 50-inch 4K UHD TV with excellent picture quality.",
     "price": 429.99,
     "category": "Electronics",
@@ -217,7 +217,7 @@
   },
   {
     "productName": "HP Spectre x360",
-    "productImage": "https://example.com/hp-spectre-x360.jpg",
+    "productImage": "https://www.google.com/imgres?q=HP%20Spectre%20x360&imgurl=https%3A%2F%2Fcomputermania-bd.b-cdn.net%2Fwp-content%2Fuploads%2FHP-Spectre-x360-15-Price-in-BD.jpg&imgrefurl=https%3A%2F%2Fcomputermania.com.bd%2Fproduct%2Fhp-spectre-x360-convertible-15-eb0053dx%2F&docid=zh8uL9uytJmOGM&tbnid=rftpQNvRBWMbCM&vet=12ahUKEwj63eCkh_yHAxXpTmwGHc3SDioQM3oECBYQAA..i&w=480&h=361&hcb=2&ved=2ahUKEwj63eCkh_yHAxXpTmwGHc3SDioQM3oECBYQAA",
     "description": "A versatile 2-in-1 laptop with a stunning design and long battery life.",
     "price": 1499.99,
     "category": "Laptops",
@@ -226,7 +226,7 @@
   },
   {
     "productName": "Nikon Z7 II",
-    "productImage": "https://example.com/nikon-z7ii.jpg",
+    "productImage": "https://www.google.com/imgres?q=Nikon%20Z7%20II&imgurl=https%3A%2F%2Fwww.startech.com.bd%2Fimage%2Fcache%2Fcatalog%2Fcamera%2Fmirriorless%2Fnikon%2Fnikon-z7-ii%2Fz7-ii-body-01-500x500.webp&imgrefurl=https%3A%2F%2Fwww.startech.com.bd%2Fnikon-z7-ii-mirrorless-digital-camera&docid=dEnLneEMhQra0M&tbnid=kqJsnk5fZ_TWlM&vet=12ahUKEwjn6YzCh_yHAxVsUGwGHT4gF_sQM3oECBUQAA..i&w=500&h=500&hcb=2&ved=2ahUKEwjn6YzCh_yHAxVsUGwGHT4gF_sQM3oECBUQAA",
     "description": "A high-resolution full-frame mirrorless camera with advanced features.",
     "price": 2999.0,
     "category": "Cameras",
@@ -235,7 +235,7 @@
   },
   {
     "productName": "North Face Men's Jacket",
-    "productImage": "https://example.com/northface-jacket.jpg",
+    "productImage": "https://www.google.com/imgres?q=North%20Face%20Men%27s%20Jacket&imgurl=https%3A%2F%2Fproductimage001.snowandrock.com%2Fproductimages%2F989x1484%2Fb12aje0068_7171_a.jpg&imgrefurl=https%3A%2F%2Fwww.snowandrock.com%2Fp%2Fthe-north-face-mens-meridian-jacket-B12AJE0068.html&docid=LqvqGzRc2SYoyM&tbnid=OuLKT3LvAT6CfM&vet=12ahUKEwjB7szLh_yHAxXqTGcHHWjCC44QM3oECGQQAA..i&w=989&h=1484&hcb=2&ved=2ahUKEwjB7szLh_yHAxXqTGcHHWjCC44QM3oECGQQAA",
     "description": "A durable and warm jacket for outdoor adventures.",
     "price": 199.99,
     "category": "Clothing",
@@ -244,7 +244,7 @@
   },
   {
     "productName": "Hermès Birkin Bag",
-    "productImage": "https://example.com/hermes-birkin.jpg",
+    "productImage": "https://www.google.com/imgres?q=Herm%C3%A8s%20Birkin%20Bag&imgurl=https%3A%2F%2Fassets.hermes.com%2Fis%2Fimage%2Fhermesedito%2FP_169_C_BIRKIN_HEADER%3Fwid%3D1200&imgrefurl=https%3A%2F%2Fwww.hermes.com%2Fus%2Fen%2Fcontent%2F106191-birkin%2F&docid=lmqK9s3wjo1e4M&tbnid=V9XMGLmWuJ2bxM&vet=12ahUKEwivxdXdh_yHAxWsd2wGHVLgHj4QM3oECG0QAA..i&w=1200&h=675&hcb=2&ved=2ahUKEwivxdXdh_yHAxWsd2wGHVLgHj4QM3oECG0QAA",
     "description": "An iconic luxury handbag known for its craftsmanship and exclusivity.",
     "price": 15000.0,
     "category": "Accessories",
@@ -253,7 +253,7 @@
   },
   {
     "productName": "Rolex Submariner",
-    "productImage": "https://example.com/rolex-submariner.jpg",
+    "productImage": "https://www.google.com/imgres?q=Rolex%20Submariner&imgurl=https%3A%2F%2Frolex.torres.pt%2Fwp-content%2Fuploads%2F2024%2F07%2Fm124060-0001_drp-upright-bba-with-shadow-Torres-Joalheiros.png&imgrefurl=https%3A%2F%2Frolex.torres.pt%2Fen%2Fwatch%2Fsubmariner%2Fm124060-0001%2F&docid=D0wlpqP0qq8isM&tbnid=P4upD7xPW7ZwfM&vet=12ahUKEwjL6rLnh_yHAxWRZWwGHdhVFyYQM3oECBgQAA..i&w=800&h=1180&hcb=2&ved=2ahUKEwjL6rLnh_yHAxWRZWwGHdhVFyYQM3oECBgQAA",
     "description": "A legendary dive watch with timeless design and precision.",
     "price": 8000.0,
     "category": "Watches",
@@ -262,7 +262,7 @@
   },
   {
     "productName": "Persol PO0714 Sunglasses",
-    "productImage": "https://example.com/persol-po0714.jpg",
+    "productImage": "https://www.google.com/imgres?q=Persol%20PO0714%20Sunglasses&imgurl=https%3A%2F%2Fassets2.persol.com%2Fcdn-record-files-pi%2F75af70ee-231d-455f-a633-a3c0006fb766%2Fd5e87b2d-1375-47c8-a16f-aed6012bd3d9%2F0PO0714__95_31__P21__shad__qt.png%3Fimpolicy%3DHB_parameters_transp%26wid%3D720%26cropnorth%3D-9%26cropsouth%3D15&imgrefurl=https%3A%2F%2Fwww.persol.com%2Fusa%2F0PO0714--95-31&docid=KGyG1nxmt7VkaM&tbnid=STlTZT_M5VXBxM&vet=12ahUKEwitmevxh_yHAxU-SmwGHSTQFHUQM3oECGoQAA..i&w=720&h=354&hcb=2&ved=2ahUKEwitmevxh_yHAxU-SmwGHSTQFHUQM3oECGoQAA",
     "description": "Handcrafted sunglasses with a unique folding design.",
     "price": 320.0,
     "category": "Accessories",
@@ -271,7 +271,7 @@
   },
   {
     "productName": "Reebok Nano X1",
-    "productImage": "https://example.com/reebok-nano-x1.jpg",
+    "productImage": "https://www.google.com/imgres?q=Reebok%20Nano%20X1&imgurl=https%3A%2F%2Fcdn11.bigcommerce.com%2Fs-azs446wiic%2Fimages%2Fstencil%2F1280x1280%2Fproducts%2F583%2F7287%2Fgb5gxfhxdsyfejbx7ziz__79044.1688133484.png%3Fc%3D2&imgrefurl=https%3A%2F%2Freebokwork.com%2Fnano-x1-adventure-work-rb3481%2F&docid=bpfhgJBEfSBjcM&tbnid=Cll_E_FwHm6bVM&vet=12ahUKEwjM9_f5h_yHAxWMSWwGHba2CpcQM3oECHYQAA..i&w=1280&h=1280&hcb=2&ved=2ahUKEwjM9_f5h_yHAxWMSWwGHba2CpcQM3oECHYQAA",
     "description": "Versatile training shoes designed for all kinds of workouts.",
     "price": 130.0,
     "category": "Shoes",
@@ -280,7 +280,7 @@
   },
   {
     "productName": "Sennheiser HD 660S",
-    "productImage": "https://example.com/sennheiser-hd660s.jpg",
+    "productImage": "https://www.google.com/imgres?q=Sennheiser%20HD%20660S&imgurl=https%3A%2F%2Fwww.audiosciencereview.com%2Fforum%2Findex.php%3Fattachments%2F211584%2F&imgrefurl=https%3A%2F%2Faudiosciencereview.com%2Fforum%2Findex.php%3Fthreads%2Fsennheiser-hd660s-review-headphone.34755%2F&docid=Tdn1sNErK9tDmM&tbnid=ANbUYHVz9YpVTM&vet=12ahUKEwiV_ryKiPyHAxX2XWwGHTB4BicQM3oECBcQAA..i&w=800&h=777&hcb=2&ved=2ahUKEwiV_ryKiPyHAxX2XWwGHTB4BicQM3oECBcQAA",
     "description": "Open-back audiophile headphones for precise sound reproduction.",
     "price": 499.99,
     "category": "Audio",
@@ -289,7 +289,7 @@
   },
   {
     "productName": "Samsung Galaxy S22 Ultra",
-    "productImage": "https://example.com/galaxy-s22-ultra.jpg",
+    "productImage": "https://www.google.com/imgres?q=Samsung%20Galaxy%20S22%20Ultra&imgurl=https%3A%2F%2Fadminapi.applegadgetsbd.com%2Fstorage%2Fmedia%2Flarge%2F4679-9527.jpg&imgrefurl=https%3A%2F%2Fwww.applegadgetsbd.com%2Fproduct%2Fgalaxy-s22-ultra&docid=XJsbpQjfiHfGlM&tbnid=wKsbegzwFDrCGM&vet=12ahUKEwj4oYeWiPyHAxXhUWwGHdwaGV0QM3oECBIQAA..i&w=1024&h=1024&hcb=2&ved=2ahUKEwj4oYeWiPyHAxXhUWwGHdwaGV0QM3oECBIQAA",
     "description": "A flagship smartphone with cutting-edge technology and S Pen support.",
     "price": 1199.0,
     "category": "Phones",
@@ -298,7 +298,7 @@
   },
   {
     "productName": "TCL 6-Series 4K Roku TV",
-    "productImage": "https://example.com/tcl-6-series.jpg",
+    "productImage": "https://www.google.com/imgres?q=TCL%206-Series%204K%20Roku%20TV&imgurl=https%3A%2F%2Fi.pcmag.com%2Fimagery%2Freviews%2F06ttMlKzY7SpWsMSoxGNbri-1.fit_lim.size_1050x591.v1664801477.jpg&imgrefurl=https%3A%2F%2Fwww.pcmag.com%2Freviews%2Ftcl-55-inch-6-series-4k-roku-tv-55r655&docid=QBwRoTvdIzhIWM&tbnid=0NuIQAB9HAZF4M&vet=12ahUKEwiettegiPyHAxVYSWwGHUVdNVUQM3oECBsQAA..i&w=1050&h=591&hcb=2&ved=2ahUKEwiettegiPyHAxVYSWwGHUVdNVUQM3oECBsQAA",
     "description": "A value-packed 4K TV with excellent picture quality and Roku integration.",
     "price": 649.99,
     "category": "Electronics",
@@ -307,7 +307,7 @@
   },
   {
     "productName": "Lenovo Yoga 9i",
-    "productImage": "https://example.com/lenovo-yoga-9i.jpg",
+    "productImage": "https://www.google.com/imgres?q=Lenovo%20Yoga%209i&imgurl=https%3A%2F%2Fcomputermania-bd.b-cdn.net%2Fwp-content%2Fuploads%2Fdownload-5.jpg&imgrefurl=https%3A%2F%2Fcomputermania.com.bd%2Fproduct%2Flenovo-yoga-9i-price-in-bd%2F&docid=l_jXnyUtmsD-iM&tbnid=O1YxAlcHvrDi4M&vet=12ahUKEwitp_qsiPyHAxXDVWwGHUfNCCIQM3oECBkQAA..i&w=700&h=525&hcb=2&ved=2ahUKEwitp_qsiPyHAxXDVWwGHUfNCCIQM3oECBkQAA",
     "description": "A premium 2-in-1 laptop with a rotating soundbar and stylus support.",
     "price": 1599.99,
     "category": "Laptops",
@@ -316,7 +316,7 @@
   },
   {
     "productName": "Sony Alpha a7R IV",
-    "productImage": "https://example.com/sony-alpha-a7riv.jpg",
+    "productImage": "https://www.google.com/imgres?q=Sony%20Alpha%20a7R%20IV&imgurl=https%3A%2F%2Fgiggster.com%2Fguide%2Fcms-data%2Fassets%2Fe1e518f2-7e61-4ef6-afc9-28ddd033dcb2%3Fwidth%3D2166%26height%3D1625&imgrefurl=https%3A%2F%2Fgiggster.com%2Fguide%2Freview%2Fsony-alpha-a7r-iv-review-in-progress-33793&docid=HvHbXiTlg1FjGM&tbnid=xgNg4Q4-ShXjyM&vet=12ahUKEwiYkIi4iPyHAxWud2wGHUvaKKcQM3oECBUQAA..i&w=2166&h=1625&hcb=2&ved=2ahUKEwiYkIi4iPyHAxWud2wGHUvaKKcQM3oECBUQAA",
     "description": "A high-resolution full-frame mirrorless camera for professionals.",
     "price": 3499.0,
     "category": "Cameras",
@@ -325,7 +325,7 @@
   },
   {
     "productName": "Patagonia Men's Down Sweater",
-    "productImage": "https://example.com/patagonia-down-sweater.jpg",
+    "productImage": "https://www.google.com/imgres?q=Patagonia%20Men%27s%20Down%20Sweater&imgurl=https%3A%2F%2Fwww.onestoppromotions.co.uk%2Fcdn%2Fshop%2Fproducts%2F84674-e1_1400x.jpg%3Fv%3D1609863182&imgrefurl=https%3A%2F%2Fwww.onestoppromotions.co.uk%2Fproducts%2F84674&docid=lNWI8FLJ7P-jEM&tbnid=AQTT8FRDMCS3kM&vet=12ahUKEwj29cLJiPyHAxVhRmcHHZIjKIwQM3oECHgQAA..i&w=1400&h=1400&hcb=2&itg=1&ved=2ahUKEwj29cLJiPyHAxVhRmcHHZIjKIwQM3oECHgQAA",
     "description": "A lightweight, warm down jacket for outdoor activities.",
     "price": 229.0,
     "category": "Clothing",
@@ -334,7 +334,7 @@
   },
   {
     "productName": "Louis Vuitton Neverfull Bag",
-    "productImage": "https://example.com/louis-vuitton-neverfull.jpg",
+    "productImage": "https://www.google.com/imgres?q=Louis%20Vuitton%20Neverfull%20Bag&imgurl=https%3A%2F%2Fme.louisvuitton.com%2Fimages%2Fis%2Fimage%2Flv%2F1%2FPP_VP_L%2Flouis-vuitton-neverfull-mm--N40598_PM2_Front%2520view.jpg&imgrefurl=https%3A%2F%2Fme.louisvuitton.com%2Feng-ae%2Fproducts%2Fneverfull-mm-damier-ebene-nvprod5350102v%2FN40598&docid=NCZ8gUB9teK8OM&tbnid=tv-SdWiDnzfSPM&vet=12ahUKEwjv94DTiPyHAxWOSWwGHUdpC5kQM3oECBoQAA..i&w=2000&h=2000&hcb=2&ved=2ahUKEwjv94DTiPyHAxWOSWwGHUdpC5kQM3oECBoQAA",
     "description": "A spacious and iconic luxury tote bag.",
     "price": 1450.0,
     "category": "Accessories",
@@ -343,7 +343,7 @@
   },
   {
     "productName": "Breitling Navitimer Watch",
-    "productImage": "https://example.com/breitling-navitimer.jpg",
+    "productImage": "https://www.google.com/imgres?q=Breitling%20Navitimer%20Watch&imgurl=https%3A%2F%2Fmonochrome-watches.com%2Fwp-content%2Fuploads%2F2014%2F05%2FBreitling-Navitimer-01-46mm-1.jpeg&imgrefurl=https%3A%2F%2Fmonochrome-watches.com%2Fintroducing-breitling-navitimer-01-46mm-navitimer-1461-48mm%2F&docid=Hhojp_61CAbKDM&tbnid=hRltWeBVfmR3cM&vet=12ahUKEwjP7oTbiPyHAxUgR2wGHXrkMQcQM3oECCQQAA..i&w=1200&h=795&hcb=2&ved=2ahUKEwjP7oTbiPyHAxUgR2wGHXrkMQcQM3oECCQQAA",
     "description": "A classic pilot's watch with a slide rule bezel and chronograph.",
     "price": 7200.0,
     "category": "Watches",

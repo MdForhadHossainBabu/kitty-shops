@@ -17,6 +17,7 @@ import MyReturns from "../page/MyOrder/MyReturns/MyReturns";
 import MyCancellations from "../page/MyOrder/MyCancellations/MyCancellations";
 import MyWishlist from "../page/MyReviews/MyWishlist/MyWishlist";
 import Search from "@/page/search";
+import CartInfo from "@/layout/Just/CartInfo";
 
 export const router = createBrowserRouter([
   {
@@ -27,6 +28,11 @@ export const router = createBrowserRouter([
       {
         index: true,
         element: <Root />,
+      },
+      {
+        path: `/shop/:_id`,
+        element: <CartInfo />,
+        loader: ({params})=>fetch(`${import.meta.env.VITE_BASE_URL}/product/${params._id}`)
       },
       {
         path: '/search',

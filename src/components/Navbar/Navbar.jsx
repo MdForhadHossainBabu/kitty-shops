@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import Headroom from 'react-headroom';
 import {
   FaMoon,
@@ -70,7 +70,14 @@ const Navbar = () => {
     </div>
   );
 
- 
+
+  const [val, setVal] = useState([]);
+  useEffect(() => {
+   fetch(`${import.meta.env.VITE_BASE_URL}/carts`)
+     .then((res) => res.json())
+     .then((data) => setVal(data));
+  },[])
+ console.log(val);
   return (
     <>
       <Headroom
@@ -149,8 +156,8 @@ const Navbar = () => {
               to="/cart"
             >
               <HiOutlineShoppingCart className="text-2xl" />
-              <span className="absolute -top-[5px] text-black right-[10px] text-[12px] border rounded-full p-[2px] h-5 w-5 items-center  bg-white font-bold">
-                02
+              <span className='absolute -top-1 bg-white text-black h-4 w-4 items-center flex justify-center rounded-full'>
+                {val.length}
               </span>
             </NavLink>
           </div>
