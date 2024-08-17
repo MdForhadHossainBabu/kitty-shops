@@ -3,7 +3,7 @@
 
 # this website name is  (kitty-Shops)
 
-- (kitty-shops)[https://kitty-shops.vercel.app]
+- (kitty-shops) [https://kitty-shops.vercel.app]
 
 Firstly if you run to local Computer then you follow under those Command, 
 
