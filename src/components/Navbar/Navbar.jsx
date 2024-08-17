@@ -2,7 +2,6 @@ import { useState } from 'react';
 import Headroom from 'react-headroom';
 import {
   FaMoon,
-  FaSearch,
   FaSmile,
   FaStar,
   FaSun,
@@ -10,19 +9,17 @@ import {
   FaUserAlt,
 } from 'react-icons/fa';
 import { HiOutlineShoppingCart } from 'react-icons/hi';
-import { Link, NavLink } from 'react-router-dom';
+import { Link, NavLink,} from 'react-router-dom';
 import useAuth from '../../hooks/useAuth';
 import Dropdown from 'rc-dropdown';
 import { FaArrowDown, FaBagShopping } from 'react-icons/fa6';
 import { GiSelfLove } from 'react-icons/gi';
 import { IoIosLogOut } from 'react-icons/io';
-import { Button } from '../ui/button';
-import { Input } from '../ui/input';
-
+import SearchBar from '@/page/searchbar';
 const Navbar = () => {
   const { user, logOut } = useAuth();
   const [theme, setTheme] = useState(true);
-
+ 
   const menuItems1 = [
     <Link
       to="/manage-account"
@@ -73,8 +70,9 @@ const Navbar = () => {
     </div>
   );
 
+ 
   return (
-    <div>
+    <>
       <Headroom
         className="fixed w-full h-15 z-20"
         style={{
@@ -85,19 +83,15 @@ const Navbar = () => {
         }}
       >
         {/* main div */}
-
         <div className="flex items-center justify-between px-4 lg:px-24 bg-rose-600 text-white font-nunito  py-2">
           <Link to="/" end={'true'}>
             <h1 className="font-sevilana text-2xl md:text-4xl  text-slate-100">
               Kitty-Shops
             </h1>
           </Link>
-          <div className="flex items-center gap-0">
-         <Input placeholder="Search Here*" />
-            <Button className="pt-2">
-              <FaSearch />
-            </Button>
-          </div>
+          <div>
+            <SearchBar/>
+</div>
           <div className="flex items-center">
             {user ? (
               <Dropdown overlay={menu1}>
@@ -162,7 +156,7 @@ const Navbar = () => {
           </div>
         </div>
       </Headroom>
-    </div>
+    </>
   );
 };
 

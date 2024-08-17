@@ -1,11 +1,13 @@
 import { createContext, useEffect, useState } from "react";
 import { createUserWithEmailAndPassword, GithubAuthProvider, GoogleAuthProvider, onAuthStateChanged, signInWithEmailAndPassword, signInWithPopup, signOut, updateProfile } from "firebase/auth";
 import auth from './../firebase/firebase.config';
+import Search from "@/page/search";
 
 
 export const AuthContext = createContext(null)
 
-const AuthProvider = ({ children }) => {
+// eslint-disable-next-line react/prop-types
+const AuthProvider = ({ children, values }) => {
  const [user, setUser] = useState(null);
  const [loading, setLoading] = useState(true);
 
@@ -50,6 +52,11 @@ const AuthProvider = ({ children }) => {
   return signOut(auth);
  }
 
+  
+  const field = () => {
+    setLoading(true);
+    return <Search values={values}/>
+  }
 
  // observer
  useEffect(() => {
@@ -62,7 +69,16 @@ const AuthProvider = ({ children }) => {
  },[])
 
  const authInfo = {
-user, loading, setLoading,createUser, signIn, logOut, updateUser, googleLogin, githubLogin
+   user,
+   loading,
+   setLoading,
+   createUser,
+   signIn,
+   logOut,
+   updateUser,
+   googleLogin,
+   githubLogin,
+   field,
  };
 
  return (

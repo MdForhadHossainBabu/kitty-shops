@@ -1,13 +1,14 @@
 import Category from "../page/Category/Category";
 import Home from "./Home/Home";
+import Just from "./Just/Just";
 
 
 const Root = () => {
  return (
   <div>
    <Home />
-   <Category/>
-   
+   <Category />
+   <Just/>
   </div>
  );
 };

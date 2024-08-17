@@ -16,6 +16,7 @@ import MyPaymentOptions from "../layout/ManageAc/MyPaymentOptions/MyPaymentOptio
 import MyReturns from "../page/MyOrder/MyReturns/MyReturns";
 import MyCancellations from "../page/MyOrder/MyCancellations/MyCancellations";
 import MyWishlist from "../page/MyReviews/MyWishlist/MyWishlist";
+import Search from "@/page/search";
 
 export const router = createBrowserRouter([
   {
@@ -26,6 +27,10 @@ export const router = createBrowserRouter([
       {
         index: true,
         element: <Root />,
+      },
+      {
+        path: '/search',
+        element: <Search/>
       },
       {
         path: '/login',

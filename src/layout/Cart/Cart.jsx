@@ -1,9 +1,14 @@
 
+
+
+ 
+
+
 const Cart = () => {
  return (
-  <div>
-   this is cart
-  </div>
+  <div className="border-2 py-12 max-w-screen-xl mx-auto">
+   
+   </div>
  );
 };
 

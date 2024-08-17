@@ -11,7 +11,7 @@ const Category = () => {
   },[])
  return (
    <div className="md:px-24 px-5 my-4 mt-12">
-     <h1 className="text-3xl text-slate-900/90 font-semibold font-nunito">
+     <h1 className="text-2xl text-slate-900/90 font-nunito">
        Categories
      </h1>
 

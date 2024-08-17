@@ -1,0 +1,353 @@
+[
+  {
+    "productName": "Nike Air Max 270",
+    "productImage": "https://example.com/nike-airmax-270.jpg",
+    "description": "A lightweight, durable, and comfortable shoe for running.",
+    "price": 150.0,
+    "category": "Shoes",
+    "ratings": 4.5,
+    "productCreationDateTime": "2024-08-17T10:15:30Z"
+  },
+  {
+    "productName": "Sony WH-1000XM4",
+    "productImage": "https://example.com/sony-wh1000xm4.jpg",
+    "description": "Industry-leading noise-canceling over-ear headphones.",
+    "price": 349.99,
+    "category": "Audio",
+    "ratings": 4.8,
+    "productCreationDateTime": "2024-08-17T09:30:45Z"
+  },
+  {
+    "productName": "Apple iPhone 14 Pro",
+    "productImage": "https://example.com/iphone-14-pro.jpg",
+    "description": "The latest iPhone with advanced features and high performance.",
+    "price": 1099.0,
+    "category": "Phones",
+    "ratings": 4.9,
+    "productCreationDateTime": "2024-08-17T08:45:10Z"
+  },
+  {
+    "productName": "Samsung QLED TV 55\"",
+    "productImage": "https://example.com/samsung-qled-tv.jpg",
+    "description": "A stunning 55-inch QLED TV with vibrant colors and deep contrasts.",
+    "price": 899.99,
+    "category": "Electronics",
+    "ratings": 4.7,
+    "productCreationDateTime": "2024-08-17T07:20:30Z"
+  },
+  {
+    "productName": "Dell XPS 13 Laptop",
+    "productImage": "https://example.com/dell-xps13.jpg",
+    "description": "A sleek, powerful laptop with a 13.3-inch display and long battery life.",
+    "price": 1199.99,
+    "category": "Laptops",
+    "ratings": 4.6,
+    "productCreationDateTime": "2024-08-17T06:35:50Z"
+  },
+  {
+    "productName": "Canon EOS R6",
+    "productImage": "https://example.com/canon-eos-r6.jpg",
+    "description": "A high-performance mirrorless camera for professionals and enthusiasts.",
+    "price": 2499.0,
+    "category": "Cameras",
+    "ratings": 4.8,
+    "productCreationDateTime": "2024-08-17T05:50:25Z"
+  },
+  {
+    "productName": "Under Armour Men's Tech 2.0 T-Shirt",
+    "productImage": "https://example.com/ua-tech-shirt.jpg",
+    "description": "A comfortable, quick-drying T-shirt for workouts and casual wear.",
+    "price": 25.0,
+    "category": "Clothing",
+    "ratings": 4.4,
+    "productCreationDateTime": "2024-08-17T05:05:40Z"
+  },
+  {
+    "productName": "Gucci GG Marmont Bag",
+    "productImage": "https://example.com/gucci-marmont-bag.jpg",
+    "description": "A luxury crossbody bag crafted from premium leather.",
+    "price": 2299.99,
+    "category": "Accessories",
+    "ratings": 4.9,
+    "productCreationDateTime": "2024-08-17T04:20:55Z"
+  },
+  {
+    "productName": "Omega Seamaster Diver 300M",
+    "productImage": "https://example.com/omega-seamaster.jpg",
+    "description": "A sophisticated and durable dive watch with a sleek design.",
+    "price": 5200.0,
+    "category": "Watches",
+    "ratings": 4.7,
+    "productCreationDateTime": "2024-08-17T03:35:15Z"
+  },
+  {
+    "productName": "Ray-Ban Aviator Sunglasses",
+    "productImage": "https://example.com/rayban-aviator.jpg",
+    "description": "Classic aviator sunglasses with polarized lenses.",
+    "price": 160.0,
+    "category": "Accessories",
+    "ratings": 4.8,
+    "productCreationDateTime": "2024-08-17T02:50:35Z"
+  },
+  {
+    "productName": "Adidas Ultraboost 21",
+    "productImage": "https://example.com/adidas-ultraboost-21.jpg",
+    "description": "High-performance running shoes with responsive cushioning.",
+    "price": 180.0,
+    "category": "Shoes",
+    "ratings": 4.7,
+    "productCreationDateTime": "2024-08-17T10:00:10Z"
+  },
+  {
+    "productName": "Bose QuietComfort 35 II",
+    "productImage": "https://example.com/bose-qc35-ii.jpg",
+    "description": "Wireless noise-canceling headphones for immersive sound.",
+    "price": 299.99,
+    "category": "Audio",
+    "ratings": 4.7,
+    "productCreationDateTime": "2024-08-17T09:15:25Z"
+  },
+  {
+    "productName": "Google Pixel 7",
+    "productImage": "https://example.com/google-pixel-7.jpg",
+    "description": "A smart and powerful smartphone with an exceptional camera.",
+    "price": 699.0,
+    "category": "Phones",
+    "ratings": 4.6,
+    "productCreationDateTime": "2024-08-17T08:30:50Z"
+  },
+  {
+    "productName": "LG OLED TV 65\"",
+    "productImage": "https://example.com/lg-oled-tv.jpg",
+    "description": "A premium 65-inch OLED TV with perfect blacks and stunning colors.",
+    "price": 1999.99,
+    "category": "Electronics",
+    "ratings": 4.9,
+    "productCreationDateTime": "2024-08-17T07:45:05Z"
+  },
+  {
+    "productName": "Microsoft Surface Laptop 4",
+    "productImage": "https://example.com/surface-laptop4.jpg",
+    "description": "A sleek, powerful laptop with a 13.5-inch touchscreen display.",
+    "price": 1299.99,
+    "category": "Laptops",
+    "ratings": 4.7,
+    "productCreationDateTime": "2024-08-17T07:00:20Z"
+  },
+  {
+    "productName": "Fujifilm X-T4",
+    "productImage": "https://example.com/fujifilm-xt4.jpg",
+    "description": "A versatile mirrorless camera with advanced features for creators.",
+    "price": 1699.0,
+    "category": "Cameras",
+    "ratings": 4.8,
+    "productCreationDateTime": "2024-08-17T06:15:35Z"
+  },
+  {
+    "productName": "Levi's 501 Original Jeans",
+    "productImage": "https://example.com/levis-501.jpg",
+    "description": "Classic straight-leg jeans with a timeless style.",
+    "price": 89.99,
+    "category": "Clothing",
+    "ratings": 4.6,
+    "productCreationDateTime": "2024-08-17T05:30:50Z"
+  },
+  {
+    "productName": "Prada Saffiano Leather Wallet",
+    "productImage": "https://example.com/prada-wallet.jpg",
+    "description": "A luxury wallet crafted from premium Saffiano leather.",
+    "price": 450.0,
+    "category": "Accessories",
+    "ratings": 4.8,
+    "productCreationDateTime": "2024-08-17T04:45:05Z"
+  },
+  {
+    "productName": "Tag Heuer Carrera Watch",
+    "productImage": "https://example.com/tag-heuer-carrera.jpg",
+    "description": "A luxury chronograph watch with a sporty and elegant design.",
+    "price": 3999.99,
+    "category": "Watches",
+    "ratings": 4.9,
+    "productCreationDateTime": "2024-08-17T04:00:20Z"
+  },
+  {
+    "productName": "Oakley Holbrook Sunglasses",
+    "productImage": "https://example.com/oakley-holbrook.jpg",
+    "description": "Stylish and durable sunglasses with polarized lenses.",
+    "price": 130.0,
+    "category": "Accessories",
+    "ratings": 4.7,
+    "productCreationDateTime": "2024-08-17T03:15:35Z"
+  },
+  {
+    "productName": "Puma RS-X3",
+    "productImage": "https://example.com/puma-rs-x3.jpg",
+    "description": "Futuristic sneakers with bold design and comfort.",
+    "price": 120.0,
+    "category": "Shoes",
+    "ratings": 4.5,
+    "productCreationDateTime": "2024-08-17T02:30:50Z"
+  },
+  {
+    "productName": "Beats Studio3 Wireless",
+    "productImage": "https://example.com/beats-studio3.jpg",
+    "description": "Premium noise-canceling headphones with high-quality sound.",
+    "price": 349.99,
+    "category": "Audio",
+    "ratings": 4.6,
+    "productCreationDateTime": "2024-08-17T10:45:05Z"
+  },
+  {
+    "productName": "OnePlus 9 Pro",
+    "productImage": "https://example.com/oneplus-9-pro.jpg",
+    "description": "A powerful smartphone with fast performance and a stunning display.",
+    "price": 969.0,
+    "category": "Phones",
+    "ratings": 4.7,
+    "productCreationDateTime": "2024-08-17T09:00:20Z"
+  },
+  {
+    "productName": "Vizio 4K UHD TV 50\"",
+    "productImage": "https://example.com/vizio-4k-tv.jpg",
+    "description": "Affordable 50-inch 4K UHD TV with excellent picture quality.",
+    "price": 429.99,
+    "category": "Electronics",
+    "ratings": 4.6,
+    "productCreationDateTime": "2024-08-17T08:15:35Z"
+  },
+  {
+    "productName": "HP Spectre x360",
+    "productImage": "https://example.com/hp-spectre-x360.jpg",
+    "description": "A versatile 2-in-1 laptop with a stunning design and long battery life.",
+    "price": 1499.99,
+    "category": "Laptops",
+    "ratings": 4.7,
+    "productCreationDateTime": "2024-08-17T07:30:50Z"
+  },
+  {
+    "productName": "Nikon Z7 II",
+    "productImage": "https://example.com/nikon-z7ii.jpg",
+    "description": "A high-resolution full-frame mirrorless camera with advanced features.",
+    "price": 2999.0,
+    "category": "Cameras",
+    "ratings": 4.8,
+    "productCreationDateTime": "2024-08-17T06:45:05Z"
+  },
+  {
+    "productName": "North Face Men's Jacket",
+    "productImage": "https://example.com/northface-jacket.jpg",
+    "description": "A durable and warm jacket for outdoor adventures.",
+    "price": 199.99,
+    "category": "Clothing",
+    "ratings": 4.7,
+    "productCreationDateTime": "2024-08-17T06:00:20Z"
+  },
+  {
+    "productName": "Hermès Birkin Bag",
+    "productImage": "https://example.com/hermes-birkin.jpg",
+    "description": "An iconic luxury handbag known for its craftsmanship and exclusivity.",
+    "price": 15000.0,
+    "category": "Accessories",
+    "ratings": 4.9,
+    "productCreationDateTime": "2024-08-17T05:15:35Z"
+  },
+  {
+    "productName": "Rolex Submariner",
+    "productImage": "https://example.com/rolex-submariner.jpg",
+    "description": "A legendary dive watch with timeless design and precision.",
+    "price": 8000.0,
+    "category": "Watches",
+    "ratings": 4.9,
+    "productCreationDateTime": "2024-08-17T04:30:50Z"
+  },
+  {
+    "productName": "Persol PO0714 Sunglasses",
+    "productImage": "https://example.com/persol-po0714.jpg",
+    "description": "Handcrafted sunglasses with a unique folding design.",
+    "price": 320.0,
+    "category": "Accessories",
+    "ratings": 4.6,
+    "productCreationDateTime": "2024-08-17T03:45:05Z"
+  },
+  {
+    "productName": "Reebok Nano X1",
+    "productImage": "https://example.com/reebok-nano-x1.jpg",
+    "description": "Versatile training shoes designed for all kinds of workouts.",
+    "price": 130.0,
+    "category": "Shoes",
+    "ratings": 4.7,
+    "productCreationDateTime": "2024-08-17T03:00:20Z"
+  },
+  {
+    "productName": "Sennheiser HD 660S",
+    "productImage": "https://example.com/sennheiser-hd660s.jpg",
+    "description": "Open-back audiophile headphones for precise sound reproduction.",
+    "price": 499.99,
+    "category": "Audio",
+    "ratings": 4.8,
+    "productCreationDateTime": "2024-08-17T02:15:35Z"
+  },
+  {
+    "productName": "Samsung Galaxy S22 Ultra",
+    "productImage": "https://example.com/galaxy-s22-ultra.jpg",
+    "description": "A flagship smartphone with cutting-edge technology and S Pen support.",
+    "price": 1199.0,
+    "category": "Phones",
+    "ratings": 4.8,
+    "productCreationDateTime": "2024-08-17T10:30:50Z"
+  },
+  {
+    "productName": "TCL 6-Series 4K Roku TV",
+    "productImage": "https://example.com/tcl-6-series.jpg",
+    "description": "A value-packed 4K TV with excellent picture quality and Roku integration.",
+    "price": 649.99,
+    "category": "Electronics",
+    "ratings": 4.7,
+    "productCreationDateTime": "2024-08-17T09:45:05Z"
+  },
+  {
+    "productName": "Lenovo Yoga 9i",
+    "productImage": "https://example.com/lenovo-yoga-9i.jpg",
+    "description": "A premium 2-in-1 laptop with a rotating soundbar and stylus support.",
+    "price": 1599.99,
+    "category": "Laptops",
+    "ratings": 4.7,
+    "productCreationDateTime": "2024-08-17T09:00:20Z"
+  },
+  {
+    "productName": "Sony Alpha a7R IV",
+    "productImage": "https://example.com/sony-alpha-a7riv.jpg",
+    "description": "A high-resolution full-frame mirrorless camera for professionals.",
+    "price": 3499.0,
+    "category": "Cameras",
+    "ratings": 4.9,
+    "productCreationDateTime": "2024-08-17T08:15:35Z"
+  },
+  {
+    "productName": "Patagonia Men's Down Sweater",
+    "productImage": "https://example.com/patagonia-down-sweater.jpg",
+    "description": "A lightweight, warm down jacket for outdoor activities.",
+    "price": 229.0,
+    "category": "Clothing",
+    "ratings": 4.8,
+    "productCreationDateTime": "2024-08-17T07:30:50Z"
+  },
+  {
+    "productName": "Louis Vuitton Neverfull Bag",
+    "productImage": "https://example.com/louis-vuitton-neverfull.jpg",
+    "description": "A spacious and iconic luxury tote bag.",
+    "price": 1450.0,
+    "category": "Accessories",
+    "ratings": 4.9,
+    "productCreationDateTime": "2024-08-17T06:45:05Z"
+  },
+  {
+    "productName": "Breitling Navitimer Watch",
+    "productImage": "https://example.com/breitling-navitimer.jpg",
+    "description": "A classic pilot's watch with a slide rule bezel and chronograph.",
+    "price": 7200.0,
+    "category": "Watches",
+    "ratings": 4.8,
+    "productCreationDateTime": "2024-08-17T06:00:20Z"
+  }
+]
