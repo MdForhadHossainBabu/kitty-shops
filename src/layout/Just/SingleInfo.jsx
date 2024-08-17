@@ -21,7 +21,7 @@ const SingleInfo = ({ info }) => {
     <Link to={`/shop/${_id}`}>
       <Card>
         <CardContent>
-          <img className='h-53 w-full' src={productImage} alt="image" />
+          <img className='h-64 w-full' src={productImage} alt="image" />
         </CardContent>
         <div className="flex flex-col gap-1 px-2 mb-3">
           <div>{productName}</div>

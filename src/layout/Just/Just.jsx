@@ -13,7 +13,7 @@ const Just = () => {
   // const pages = [...Array(numberOfPages).keys()];
   const pages = [];
   for (let i = 0; i < numberOfPages; i++) {
-    pages.push(i + 1);
+    pages.push(i);
   }
   console.log(pages);
 

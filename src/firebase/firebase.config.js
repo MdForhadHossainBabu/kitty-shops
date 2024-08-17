@@ -1,15 +1,17 @@
 // Import the functions you need from the SDKs you need
 import { initializeApp } from 'firebase/app';
-import { getAuth } from "firebase/auth";
+import { getAuth } from 'firebase/auth';
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
 
-
+// Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: 'AIzaSyBIldmwn5ZI234SyxFCGCiF-442epy0gLk',
-  authDomain: 'kitty-shops.firebaseapp.com',
-  projectId: 'kitty-shops',
-  storageBucket: 'kitty-shops.appspot.com',
-  messagingSenderId: '753648698945',
-  appId: '1:753648698945:web:c67416b9a68e061d13e8c0',
+  apiKey: import.meta.env.VITE_apiKey,
+  authDomain: import.meta.env.VITE_authDomain,
+  projectId: import.meta.env.VITE_projectId,
+  storageBucket: import.meta.env.VITE_storageBucket,
+  messagingSenderId:import.meta.env.VITE_messagingSenderId ,
+  appId: import.meta.env.VITE_appId,
 };
 
 // Initialize Firebase
