@@ -1,13 +1,16 @@
 import { Card } from '@/components/ui/card';
-import { CardContent } from '@mui/material';
+import { CardContent, Rating } from '@mui/material';
 import { useLoaderData } from 'react-router-dom';
-import banner from './../../../public/Forhad.jpg';
+// import banner from './../../../public/Forhad.jpg';
 import { RadioGroup, RadioGroupItem } from '@/components/ui/radio-group';
 import { Button } from '@/components/ui/button';
 import { useState } from 'react';
+import toast from 'react-hot-toast';
+import useAuth from '@/hooks/useAuth';
 
 const CartInfo = () => {
   const data = useLoaderData();
+  const { user } = useAuth();
   const [value, setValue] = useState([]);
   console.log(data);
   const {
@@ -15,11 +18,14 @@ const CartInfo = () => {
     description,
     price,
     productCreationDateTime,
-    // productImage,
+    productImage,
     productName,
     ratings,
     // _id,
   } = data;
+  const userInfo = {
+    ...data, ...user
+  }
 
   const handleAddToCart = () => {
     fetch(`${import.meta.env.VITE_BASE_URL}/carts`, {
@@ -27,20 +33,24 @@ const CartInfo = () => {
       headers: {
         'content-type': 'application/json',
       },
-      body: JSON.stringify(data),
+      body: JSON.stringify(userInfo),
     })
       .then((res) => res.json())
-      .then((data) => setValue(data));
+      .then((data) =>
+        setValue({
+          data,
+        })
+      );
+    if (data.insertedId) {
+      toast.success('successfully added to Cart')
+    }
   };
-
-  // const val = value.insertedId === true;
-  console.log(value);
 
   return (
     <div className="lg:px-24 pt-4 grid grid-cols-1 md:grid-cols-2 gap-5">
       <Card>
         <CardContent className="h-full w-full">
-          <img className="h-full w-full" src={banner} alt="image" />
+          <img className="h-[33rem] w-full" src={productImage} alt="image" />
         </CardContent>
       </Card>
       <div>
@@ -54,7 +64,14 @@ const CartInfo = () => {
         <h1 className="uppercase text-sm py-2">
           Category : {productCreationDateTime}
         </h1>
-        <span>{ratings}</span>
+        <span className="flex items-center">
+          <Rating
+            name="half-rating-read"
+            defaultValue={ratings}
+            precision={ratings}
+            readOnly
+          />
+        </span>
         <div className="flex items-center gap-1 text-xl font-bold">
           <span className="text-violet-700">${price}</span>
           <span>-</span>

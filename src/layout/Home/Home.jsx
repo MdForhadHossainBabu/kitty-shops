@@ -7,7 +7,9 @@ import {
 } from '@/components/ui/carousel';
 import Dropdown from 'rc-dropdown';
 import 'rc-dropdown/assets/index.css';
-import img1 from '../../../public/Forhad.jpg';
+import banner1 from '../../assets/banner1.avif';
+import banner2 from '../../assets/banner2.avif';
+import banner3 from '../../assets/banner3.avif';
 
 const Home = () => {
   const menuItems = [
@@ -153,10 +155,14 @@ const Home = () => {
         <Carousel>
           <CarouselContent>
             <CarouselItem>
-              <img className='h-64 w-full' src={img1} alt="" />
+              <img className="h-64 w-full" src={banner1} alt="" />
             </CarouselItem>
-            <CarouselItem>...</CarouselItem>
-            <CarouselItem>...</CarouselItem>
+            <CarouselItem>
+              <img className="h-64 w-full" src={banner2} alt="" />
+            </CarouselItem>
+            <CarouselItem>
+              <img className="h-64 w-full" src={banner3} alt="" />
+            </CarouselItem>
           </CarouselContent>
           <CarouselPrevious />
           <CarouselNext />

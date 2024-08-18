@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { useEffect, useState } from 'react';
 import SingleInfo from './SingleInfo';
 
@@ -15,7 +16,7 @@ const Just = () => {
   for (let i = 0; i < numberOfPages; i++) {
     pages.push(i);
   }
-  console.log(pages);
+  // console.log(pages);
 
   useEffect(() => {
     fetch(`${import.meta.env.VITE_BASE_URL}/productCount`)

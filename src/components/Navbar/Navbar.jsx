@@ -76,8 +76,10 @@ const Navbar = () => {
    fetch(`${import.meta.env.VITE_BASE_URL}/carts`)
      .then((res) => res.json())
      .then((data) => setVal(data));
-  },[])
- console.log(val);
+  }, [])
+  
+  // window.reload();
+//  console.log(val);
   return (
     <>
       <Headroom
