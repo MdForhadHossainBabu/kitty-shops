@@ -1,3 +1,6 @@
+(kitty-shop-server)[https://github.com/MdForhadHossainBabu/kitty-shops-server]
+
+
 # React vite project 
 
 
@@ -23,4 +26,4 @@ Firstly if you run to local Computer then you follow under those Command,
      - Second Terms: If you are login then you can manage and you can add your item for buy. 
      - Third Terms : if you are not login to visit cart item page then automaticly redirect to login page. 
 
-- Banner: Banner item two direction of when you can 
+- Banner: Banner item two direction of when you can swipe, then it's swipeable
